@@ -13,7 +13,7 @@ def update_messager():
 
     if not check_future_deprecation():
         print(
-            "Your version of python is going to be deprecated, for future updates upgrade to 3.7+"
+            "Your version of Python is going to be deprecated, for future updates upgrade to 3.7+"
         )
 
 
